@@ -1,0 +1,55 @@
+1. User Login
+   (i) Gmail
+   (ii) Phone
+   (iii) Firebase or Passport-Js
+   (iv) Oauth Google,Facebook,Twitter
+
+2.Payment Method
+(i) Razerpay
+(ii) Strap
+
+3. User Authenticaion
+   (i) Express_JWT
+   (ii) JWT
+   (iii) SAML Protocal
+
+4. Global Error Handling
+
+5. Multiply Database Connection
+
+6. Product Notification User Wise
+
+7. User Types
+   (i) SuperAdmin
+   (ii) Admin
+   (iii) Client
+   (iii) End-user(Customer)
+
+8. Swigger Implement For API testing
+
+9. Searching Filter
+
+10. Client Dashboard
+
+11. SuperAdmin and Admin Dashboard
+    (i) Using Private Router Declaration
+
+12. Google Map location
+
+13. create product invoice and warrenty protocal
+
+14. Customer review, comment and wishlist
+
+15. User based Project show by Machine learning
+
+16. product filter brand,company,prices range, customer rating
+
+17. automatic chat response
+
+18. validation input field
+
+19. mailgen vs nodemailer
+
+20. socket io
+
+21 multer vs express-fileuploader
